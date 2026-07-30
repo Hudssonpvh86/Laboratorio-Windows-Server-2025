@@ -10,10 +10,6 @@
 ## 🎯 1. Escopo do Projeto e Cenário Corporativo
 Este projeto documenta o provisionamento de um ambiente de laboratório virtualizado (Oracle VM VirtualBox) rodando **Windows Server 2025**. O objetivo foi centralizar a governança de identidades, aplicar políticas rígidas de segurança (Hardening) e gerenciar ativos e dados em uma rede empresarial simulada de médio porte.
 
-### 📸 Evidências Técnicas do Ambiente
-*(Arraste e solte a imagem da sua montagem com os 3 prints logo abaixo desta linha para que ela apareça aqui no topo!)*
-
-
 ---
 
 ## 🛠️ 2. Diagnóstico de Incidentes, Lentidão e Erros de Perfil
