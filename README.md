@@ -63,8 +63,4 @@ Finalizamos o dia montando um repositório centralizado e altamente seguro para 
 ## 🕵️‍♂️ 8. Auditoria de Desligamentos Inesperados (Event Viewer)
 
 * Ferramenta: Visualizador de Eventos corporativo (Windows + R > eventvwr.msc).
-* Investigação Prática: Acessamos os logs de System e isolamos o Event ID 1076 (Source: User32). Através da aba Details (Friendly View), coletamos as evidências do encerramento inesperado do servidor, auditando o horário exato da queda, o nome do processo responsável (taskhostw.exe), o tempo de duração do encerramento (ShutdownDuration de 5 segundos), o usuário que assumiu o erro (WIN-D35.../Administrator) e a justificativa preenchida no sistema ("teste"). [4] 
-
-------------------------------
-Prontinho! Agora este resumo tem 100% de tudo o que você fez hoje, detalhando o seu conhecimento de suporte técnico avançado.
-Atualize o seu arquivo do Bloco de Notas com este texto. O seu repositório do GitHub já está criado e aberto no navegador? Pode me avisar para colarmos esse texto lá e finalizarmos! esse foi o meu resumo
+* Investigação Prática: Acessamos os logs de System e isolamos o Event ID 1076 (Source: User32). Através da aba Details (Friendly View), coletamos as evidências do encerramento inesperado do servidor, auditando o horário exato da queda, o nome do processo responsável (taskhostw.exe), o tempo de duração do encerramento (ShutdownDuration de 5 segundos), o usuário que assumiu o erro (WIN-D35.../Administrator) e a justificativa preenchida no sistema ("teste").
